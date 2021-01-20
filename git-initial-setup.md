@@ -14,6 +14,7 @@
     * Ввести имя пользователя *uladzimir-miadzinski*
 1. Зайти в *Settings -> Webhooks ->* нажать кнопку *Add webhook*
     * Заполнить *Payload URL* ссылкой, которая находится в закреплённом сообщении вашей группы в *Discord*.
+    * Установить *Content type* - *application/json*
     * На этой же странице настроить какой информацией делится: установить radio-кнопку в *Let me select individual events*. и выбрать следующее:
         * *Pull request review comments*
         * *Pull request reviews*
