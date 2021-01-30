@@ -19,7 +19,6 @@
         * *Pull request review comments*
         * *Pull request reviews*
         * *Pull requests*
-        * *Pushes*
     * На *Active* должна быть установлена галочка
 1. При создании репозитория должна быть создана ветка *main* или *master*.
 1. Зайти в *Settings -> Branches -> Branch protection rules* и нажать кнопку *Add rule*
