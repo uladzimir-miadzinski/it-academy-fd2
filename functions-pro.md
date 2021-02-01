@@ -13,6 +13,10 @@
 * https://learn.javascript.ru/function-object
 * https://youtu.be/rh1mP02NFoM (очень крутое объяснение которое я добросовестно заимствовал, сам когда-то понял только на этом примере)
 * https://developer.mozilla.org/en-US/docs/Web/API/console
+* https://learn.javascript.ru/call-apply-decorators
+* https://learn.javascript.ru/bind
+* https://learn.javascript.ru/arrow-functions
+* https://learn.javascript.ru/object-methods
 
 ### Задания:
 1. https://learn.javascript.ru/task/sum-many-brackets (частая задача на собеседованиях, попробовать решить, если не сможете в течении часа, посмотреть 
@@ -60,4 +64,7 @@
     ```
     employee.work()  результат в консоле "I am Ann. I am working..."
     ```
-1. 
+1. *Borrow Method - call/apply/bind*. Создайте литерал объекта person со свойством `name`. Вызовите метод `work` объекта employee из предыдущего задания.
+1. *Memoization*. Создать функцию `fiboMemo` для вычисления чисел Фибоначчи по формуле `F0 = 0, F1 = 1, Fn = Fn-1 + Fn-2`.  
+Функция должна хранить те значения, которые она уже вычисляла.  
+Используя методы `console.time()`, `console.timeEnd()` определите время вычисления функции `fibo` и функции `fiboMemo`.
