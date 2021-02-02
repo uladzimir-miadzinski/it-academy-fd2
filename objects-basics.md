@@ -28,7 +28,7 @@
    ```
    const student = {
        address: {
-          street: undefined, // предполагаем что когда то возможен { name: "Any address" }
+          street: undefined, // предполагаем что значение возможено будет { name: "Any address" }
        },
    };
    ```
