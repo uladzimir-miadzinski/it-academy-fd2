@@ -10,6 +10,7 @@
 * https://habr.com/ru/post/337030/
 * https://learn.javascript.ru/rest-parameters-spread-operator
 * https://learn.javascript.ru/closure
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures
 * https://learn.javascript.ru/function-object
 * https://youtu.be/rh1mP02NFoM (очень крутое объяснение которое я добросовестно заимствовал, сам когда-то понял только на этом примере)
 * https://developer.mozilla.org/en-US/docs/Web/API/console
