@@ -13,6 +13,7 @@
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures
 * https://learn.javascript.ru/function-object
 * https://youtu.be/rh1mP02NFoM (очень крутое объяснение которое я добросовестно заимствовал, сам когда-то понял только на этом примере)
+* https://youtu.be/Pc6qX0HfDs4 (старайтесь создавать больше чистых функций и будет вам счастье во всём)
 * https://developer.mozilla.org/en-US/docs/Web/API/console
 * https://learn.javascript.ru/call-apply-decorators
 * https://learn.javascript.ru/bind
