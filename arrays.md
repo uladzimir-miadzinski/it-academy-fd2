@@ -6,7 +6,7 @@
 В ответ на задание прикрепить ссылку на Pull-Request
 
 ### Теория:
-* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype#methods
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype#methods (наизусть знать каждый о чём он, синтаксис помнить желательно, но что делает - обязательно! выучить!)
 * https://learn.javascript.ru/array
 * https://drive.google.com/file/d/1Tx-zgwZPLuBk01zQ7RlG-6ZVdVsRiW46/view?usp=sharing (для тех, кто сможет прочитать на английском, 
 очень полезная шпаргалка, объясняющая методы, которые используются значительно чаще, чем другие)
