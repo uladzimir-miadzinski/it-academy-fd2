@@ -6,6 +6,7 @@
 В ответ на задание прикрепить ссылку на Pull-Request
 
 ### Теория:
+* https://learn.javascript.ru/about-oop
 * https://learn.javascript.ru/classes
 * Учебник FD2 - Тема B - ООП.
 
